@@ -61,5 +61,7 @@ sudo apt-get install gnome-tweaks -y
 sudo snap install ffmpeg
 #Youtube-Dl
 sudo snap install youtube-dl
+#Gigolo
+sudo apt install gigolo
 #calibre
 flatpak install flathub com.calibre_ebook.calibre
