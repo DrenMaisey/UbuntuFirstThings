@@ -48,6 +48,8 @@ sudo apt install appimagelauncher -y
 sudo add-apt-repository ppa:cappelikan/ppa
 sudo apt update
 sudo apt install mainline -y
+#wmctrl
+sudo apt install wmctrl -y
 #ulauncher
 sudo add-apt-repository ppa:agornostal/ulauncher
 sudo apt install ulauncher -y
