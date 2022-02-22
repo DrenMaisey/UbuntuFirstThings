@@ -20,12 +20,18 @@ eseguire il comando
 - applauncher
 - mainline
 - KeepassXc
+- dconf-editor
 - Authy
 - Gnome Tweak
 - Calibre
 - ffmpeg
 - Youtube-dl
+- Slimbookbattery
+- CrownTranslate
 
+## Manca
+- pCloud
+- ProtonVPN Client
 
 
 

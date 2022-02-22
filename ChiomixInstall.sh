@@ -38,6 +38,8 @@ sudo apt install gnome-software-plugin-flatpak -y
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo 
 #ubuntudock
 sudo apt install dconf-editor -y
+#OpenVPN
+sudo apt-get install network-manager-openvpn-gnome
 #telegram
 sudo snap install telegram-desktop
 #applauncher
@@ -67,3 +69,11 @@ sudo snap install youtube-dl
 sudo apt install gigolo
 #calibre
 flatpak install flathub com.calibre_ebook.calibre
+#SilmbookBattery
+sudo add-apt-repository ppa:slimbook/slimbook
+sudo apt update
+sudo apt install slimbookbattery
+#CrownTranslate
+sudo add-apt-repository ppa:jonmagon/crow-translate
+sudo apt update
+sudo apt install crow-translate
