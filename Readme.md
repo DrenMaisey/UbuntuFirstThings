@@ -32,6 +32,7 @@ eseguire il comando
 ## Manca
 - pCloud
 - ProtonVPN Client
+- OnlyOffice
 
 
 
